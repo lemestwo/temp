@@ -1,0 +1,11 @@
+{
+  "servers": [
+    "https://www.tera.azur-cosplay.com/ftp/agaia/"
+  ],
+  "drmKey": "AGAIA",
+  "name": "ping-remover",
+  "dependencies": {
+    "library": "https://raw.githubusercontent.com/tera-toolbox-mods/library/master/module.json",
+    "ping": "https://www.tera.azur-cosplay.com/ftp/ping/module.json"
+  }
+}
