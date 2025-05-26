@@ -1,0 +1,27 @@
+{
+    "files": {
+        "README.md": "ce11a384a0ed48da95fd999f6f677458805767b9dcab5ec91b2f0d886422d661",
+        "index.js": "b3c6c9c398bf851ce1c2bc7fbe219433829b37337c0b8f539754c22e283c18a7",
+        "module.json": "38715825f56f990735141472712bd3763e9779324dcedf623fed34836aaec7af",
+        "settings_migrator.js": "5b973624efdc41630a3d8a8d4f56930b88cbee90eb05bf0560e029dc087cbf7f"
+    },
+    "defs": {
+        "C_CHAT": 1,
+        "C_PLAYER_LOCATION": 5,
+        "S_ADMIN_HOLD_CHARACTER": 2,
+        "S_BOSS_GAGE_INFO": 3,
+        "S_CHAT": 3,
+        "S_CLEAR_ALL_HOLDED_ABNORMALITY": 1,
+        "S_CURRENT_CHANNEL": 2,
+        "S_DESPAWN_DROPITEM": 4,
+        "S_DESPAWN_NPC": 3,
+        "S_DUNGEON_EVENT_MESSAGE": 2,
+        "S_EACH_SKILL_RESULT": 14,
+        "S_INSTANT_MOVE": 3,
+        "S_NOTIFY_GUILD_QUEST_URGENT": 1,
+        "S_NPC_STATUS": 2,
+        "S_SPAWN_DROPITEM": [8,9],
+        "S_SPAWN_NPC": 11,
+        "S_SYSTEM_MESSAGE": 1
+    }
+}

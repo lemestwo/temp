@@ -1,0 +1,355 @@
+{
+    "version": 1.19,
+    "data": {
+        "enabled": true,
+        "stream": false,
+        "lNotice": false,
+        "gNotice": false,
+        "spawnObject": true,
+        "speech": {
+            "enabled": false,
+            "rate": 3,
+            "volume": 100,
+            "gender": "female"
+        },
+        "cc": [
+            "</font><font color=\"#ffff00\">"
+        ],
+        "language": "en",
+        "dungeons": {
+            "2800": {
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3023": {
+                "name": "Akalath Quarantine",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3026": {
+                "name": "Corrupted Skynest",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3027": {
+                "name": "Forbidden Arena [Hagufna]",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3030": {
+                "name": "Commander's Residence",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3032": {
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3034": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Rampaging RK-9 Kennel"
+            },
+            "3036": {
+                "name": "Sky Cruiser (Hard)",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3037": {
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3101": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Gossamer Vault"
+            },
+            "3102": {
+                "name": "Draakon Arena",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3103": {
+                "name": "Forbidden Arena [Undying Warlord]",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3104": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Lumikan's Dream"
+            },
+            "3106": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Killing Grounds"
+            },
+            "3107": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Corrupted RK-9 Kennel"
+            },
+            "3111": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "The Veil (Darkan)"
+            },
+            "3123": {
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3126": {
+                "name": "Corrupted Skynest (Hard) Entrance",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3201": {
+                "name": "Gossamer Vault (Hard)",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3202": {
+                "name": "Draakon Arena (Hard)",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3203": {
+                "name": "Forbidden Arena [Nightmare Undying Warlord]",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3204": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Lumikan's Dream (Hard)"
+            },
+            "3206": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Crimson Killing Grounds"
+            },
+            "7011": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Shadow of the Gutrends (Guardian)"
+            },
+            "7015": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Escape from Balder's Refuge (Guardian)"
+            },
+            "9027": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "The Plexus (Hard)"
+            },
+            "9034": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Dreadspire"
+            },
+            "9044": {
+                "name": "Bahaar's Sanctum",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9050": {
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9053": {
+                "name": "Kezzel's Gorge (5-Person)",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9054": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Bathysmal Rise (Hard)"
+            },
+            "9056": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Timescape (Hard)"
+            },
+            "9057": {
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9066": {
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9067": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Demokron Factory (Hard)"
+            },
+            "9068": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Shadow Sanguinary (Hard)"
+            },
+            "9070": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Manglemire"
+            },
+            "9710": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Broken Prison"
+            },
+            "9716": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Sky Cruiser Endeavor"
+            },
+            "9720": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Antaroth's Abyss"
+            },
+            "9735": {
+                "name": "RK-9 Kennel",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9739": {
+                "name": "Red Refuge",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9750": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Rift's Edge"
+            },
+            "9754": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Bathysmal Rise"
+            },
+            "9756": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Timescape"
+            },
+            "9757": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Akeron's Inferno"
+            },
+            "9759": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Forsaken Island (Hard)"
+            },
+            "9768": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Shadow Sanguinary"
+            },
+            "9770": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Ruinous Manor"
+            },
+            "9780": {
+                "name": "Velik's Hold (5-Person)",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9781": {
+                "name": "Velik's Sanctuary",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9782": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Grotto of Lost Souls"
+            },
+            "9783": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Dark Reach Citadel"
+            },
+            "9794": {
+                "name": "Thaumetal Refinery",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9916": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Sky Cruiser Endeavor (Hard)"
+            },
+            "9920": {
+                "name": "Antaroth's Abyss (Hard)",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9935": {
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9939": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Red Refuge (Hard)"
+            },
+            "9970": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Ruinous Manor (Hard)"
+            },
+            "9980": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Velik's Hold (Hard)"
+            },
+            "9981": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Velik's Sanctuary (Hard)"
+            },
+            "9982": {
+                "name": "Grotto of Lost Souls (Hard)",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9983": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Dark Reach Citadel (Hard)"
+            },
+            "9994": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Thaumetal Refinery (Hard)"
+            }
+        },
+        "debug": {
+            "chat": true,
+            "all": false,
+            "s": false,
+            "e": false,
+            "am": false,
+            "ae": false,
+            "ab": false,
+            "ar": false,
+            "ad": false,
+            "h": false,
+            "ns": false,
+            "nd": false,
+            "rb": false,
+            "re": false,
+            "dm": false,
+            "qb": false,
+            "ap": false,
+            "af": false,
+            "at": false
+        }
+    }
+}
